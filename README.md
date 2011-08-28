@@ -30,6 +30,6 @@ further details.
 
 [1]: http://en.wikipedia.org/wiki/JSON-RPC
 [2]: https://github.com/martinkozak/json-rpc-objects
-[6]: http://github.com/martinkozak/json-rpc-objects-msgpack/issues
+[6]: http://github.com/martinkozak/json-rpc-objects-json/issues
 [7]: http://www.martinkozak.net/
 [11]: http://www.json.org/
