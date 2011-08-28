@@ -2,7 +2,7 @@ source "http://rubygems.org"
 # Add dependencies required to use your gem here.
 # Example:
    gem "json-rpc-objects", ">= 0.4.0"
-   gem "msgpack", ">= 0"
+   gem "multi_json", ">= 0"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
